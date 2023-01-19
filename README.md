@@ -1,4 +1,4 @@
 # DataScience
 DataScience Github notebook
-## datascience firts attempt
+## datascience first attempt
 Hello World
